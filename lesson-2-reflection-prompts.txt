@@ -16,6 +16,7 @@ organized? How would branches help?
 The branches would help because it's  kind of a category, it allows us to order the aspects of our project and make the logical changes more logical inside another "box"
 
 How do the diagrams help you visualize the branch structure?
+Diagrams are helpful too see how our project is divided into pieces, and help us to move between then easily
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?

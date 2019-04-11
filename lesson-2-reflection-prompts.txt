@@ -9,7 +9,7 @@ The staging area is different because it allows me to decide which files record 
 
 How can you use the staging area to make sure you have one commit per logical
 change?
-
+I make sure of that because I compare my changes at that moment with the last commit, so I can know if it implies a logical change
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 

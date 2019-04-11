@@ -5,21 +5,29 @@ and which message put to the commit.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
-The staging area is different because it allows me to decide which files record together or if I do not want to commit an special file
+The staging area is different because it allows me to decide which files record together
+or if I do not want to commit an special file
 
 How can you use the staging area to make sure you have one commit per logical
 change?
-I make sure of that because I compare my changes at that moment with the last commit, so I can know if it implies a logical change
+I make sure of that because I compare my changes at that moment with the last commit, so 
+I can know if it implies a logical change
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
-The branches would help because it's  kind of a category, it allows us to order the aspects of our project and make the logical changes more logical inside another "box"
+The branches would help because it's  kind of a category, it allows us to order the aspects
+ of our project and make the logical changes more logical inside another "box"
 
 How do the diagrams help you visualize the branch structure?
-Diagrams are helpful too see how our project is divided into pieces, and help us to move between then easily
+Diagrams are helpful too see how our project is divided into pieces, and help us to move 
+between then easily
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+The result is an update of the commit that is checked out in that moment merged with the 
+last commit of another branch. It compares the additions or deletions taking in
+consideration the last common parent. The graphic representation illustrates what I have
+just explained
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?

@@ -1,0 +1,46 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Because that way I can compare and see more easily what change is causing 
+    the problem
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Because I can track the progress and not only the final result. It is
+    specially helpful if a lot of time has passed
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    The automatically saved versions may not be logical and contain uncompleted
+    sections, so it can be a problem when we want to compare. The manual commit 
+    on Git allows me to save the logical stages of my program and makes easier to
+    compare and search for bugs. However, one can be forgetful and don't have the
+    necessary commit because I did not remember to save.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because a project can be made of a bunch of files working together, and a change
+    in one of them can affect all and we may want to track this as a whole.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    When we are in the directory of your project (in the bash terminal) and once you
+    have git installed, you use git log to see the lasts commits. It is important to
+    scroll down until you find the commit you need before pressing the Q key to exit.
+    The command git diff works with two parameters which are the ID's of each commit.
+    You just copy and paste them and then we will see with colors and + or - the changes
+    between commits
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Because it lets you have the security that you can restore your project exactly to how
+    it was before
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    To success in my University courses

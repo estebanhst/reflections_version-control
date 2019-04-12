@@ -31,3 +31,4 @@ just explained
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+I think that a contra is that the changes have to be logical and we should know in advance how Git will merge the branches. That is, we have to be sure that the merge will be as we think it will be. If the commits have a lot of changes, it possibly will lead to a bug because the merge is going to be no so logical

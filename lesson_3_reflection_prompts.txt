@@ -6,7 +6,7 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    Because I want to take control of my changes and the logical functionality I want from those changes. It is important to know how are my changes going and what I could be adding to my additional work. I could think that the changes in a repository without pushing or pulling are a tangible staging area
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?

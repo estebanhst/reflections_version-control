@@ -26,4 +26,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    A separate branch is useful when working in new experimental features that require some work before they are functional. The master is where our final work is present, so it only gets updated when we know that the features are ready.
